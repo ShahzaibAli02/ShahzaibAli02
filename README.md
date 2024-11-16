@@ -1,5 +1,8 @@
 # 💫 About Me:
-🛠 I’m currently working on An iPad app focused on improving user workflows and enhancing productivity.<br>🤝 I’m looking to collaborate on Innovative mobile app projects involving Swift, SwiftUI, or Kotlin with a focus on user-centric designs.<br>🤔 I’m looking for help with Expanding my portfolio with impactful applications, especially integrating complex APIs or BLE functionality.<br>🌱 I’m currently learning Advanced SwiftUI animations and gesture-based interactions in Jetpack Compose.<br>💬 Ask me about Android and iOS app development, working with Firebase, MVVM architecture, and mobile app lifecycle best practices.<br>⚡ Fun fact I love sci-fi movies, enjoy working out early in the morning, and have a knack for solving challenging app bugs.
+
+I’m a senior Android and iOS developer with extensive experience building and publishing high-quality apps. I specialize in Kotlin, Swift, Jetpack Compose, and SwiftUI, focusing on creating efficient and visually appealing mobile solutions. Over the years, I’ve successfully delivered several apps tailored to client needs.  
+
+Check out my portfolio at [shahzaibdev.com](https://shahzaibdev.com) to explore my work!
 
 
 ## 🌐 Socials:
